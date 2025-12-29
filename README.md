@@ -44,4 +44,4 @@ Currently preparing for **Google Summer of Code (GSoC)** with a strong focus on 
 
 ## 📫 Contact
 📧 meet.darji2511@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/meet-darji
+🔗 LinkedIn: https://www.linkedin.com/in/meet-darji-4a1767375/
